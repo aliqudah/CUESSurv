@@ -14,5 +14,5 @@ This repository contains the Python implementation of **CUES-Surv**, a comprehen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cues-surv.git
+git clone https://github.com/aliqudah/CUESSurv.git
 cd cues-surv
