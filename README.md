@@ -7,7 +7,7 @@
 **CUES-Surv** is a comprehensive evaluation framework for survival analysis models. It computes a dynamic composite score that integrates **Calibration**, **Utility**, **Equity**, and **Stability** over time, while also reporting standard metrics like the **C-index** and **Integrated Brier Score (IBS)**.
 
 This repository contains the Python implementation used in our paper:  
-> Binder, N. L., et al. (2026). "A Comprehensive Evaluation Framework for Survival Models: Dynamic CUES-Surv Across Multiple Datasets." *Mathematics*, 14(3), 398. [https://doi.org/10.3390/math14030398](https://doi.org/10.3390/math14030398)
+> Alqudah, Ali Mohammad, and Zahra Moussavi. "CUES: A Multiplicative Composite Metric for Evaluating Clinical Prediction Models Theory, Inference, and Properties." Mathematics 14.3 (2026): 398. [https://doi.org/10.3390/math14030398](https://doi.org/10.3390/math14030398)
 
 ## Features
 - Supports **7 public datasets** (GBSG2, WHAS500, AIDS, CGVHD, Breast Cancer, FLCHAIN, Veterans Lung Cancer) – BMT has been removed for clarity.
