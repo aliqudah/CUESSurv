@@ -2,7 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXX)
 
 **CUES-Surv** is a comprehensive evaluation framework for survival analysis models. It computes a dynamic composite score that integrates **Calibration**, **Utility**, **Equity**, and **Stability** over time, while also reporting standard metrics like the **C-index** and **Integrated Brier Score (IBS)**.
 
