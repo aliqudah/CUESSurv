@@ -21,5 +21,5 @@ This repository contains the Python implementation used in our paper:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cues-surv.git
-cd cues-surv
+git clone https://github.com/aliqudah/CUESSurv.git
+cd CUESSurv
